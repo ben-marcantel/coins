@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "futura";
+    margin: 2rem;
+}
+#output {
+    color: yellow;
+    margin: 2rem;
+}
+
+
+input{
+    margin: 2rem;
+}
+
+input[type=text] {
+    background-color: black;
+    color: white;
+}
+ input[type=submit] {
+    background-color:black;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#button:hover {
+    background-color: rgb(36, 36, 36); /* Green */
+}
